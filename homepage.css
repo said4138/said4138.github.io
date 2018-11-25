@@ -1,0 +1,20 @@
+body
+
+{
+	background-image: url("02.png");
+background-attachment: fixed;
+	
+}
+.aaa{
+margin:10px;
+text-align: right;
+width: 320px;
+height: 400px;
+}
+body
+p {
+	color: blue;
+}
+h3{
+	color: red;
+}
